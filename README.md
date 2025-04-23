@@ -1,3 +1,3 @@
 # MCTA Link List site
 
-This is a public github repo for MCTA lik list
+This is a repo for MCTA link list [go.mcta.in](https://go.mcta.in) hosted as a GitHub Page. 
