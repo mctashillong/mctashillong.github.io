@@ -2,8 +2,6 @@
 
 ## 36th Biennial General Conference of the Meghalaya College Teachers' Association
 
-[General Secretary's Report](/gsr.html) [Treasurer's Report](/image/tr.pdf) 
+<a class="btn" href="/image/tr.pdf" target="_blank">Download Treasurer's Report</a>
 
 <embed src="/image/tr.pdf" type="application/pdf" width="100%" height="600px" />
-
-
