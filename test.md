@@ -1,6 +1,6 @@
 ---
 title: Test Page
-layout: null
+layout: default
 ---
 # Welcome to My Website!
 This entire site is written in **Markdown** and hosted on GitHub Pages.
