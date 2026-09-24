@@ -1,1 +1,28 @@
-{{ content }}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    <!-- Link your stylesheet here if you have one -->
+</head>
+<body>
+
+    <header>
+        <nav>
+            <a href="{{ site.baseurl }}/">Home</a>
+            <!-- Additional links -->
+        </nav>
+    </header>
+
+    <main>
+        <!-- This is where your Markdown or Page content gets injected -->
+        {{ content }}
+    </main>
+
+    <footer>
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.title }}</p>
+    </footer>
+
+</body>
+</html>
