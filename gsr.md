@@ -1,13 +1,13 @@
+---
+title: General Secretary's Report
+layout: default
+---
 # MEGHALAYA COLLEGE TEACHERS’ ASSOCIATION
 # GENERAL SECRETARY’S REPORT
 ## For the 36th Biennial Conference
 _Period: 26th April 2024 – 24th September 2026_
 
-36th Biennial Conference | 2024–2026 A concise account of the Association’s work, collective efforts, achievements and continuing commitments in advancing the interests, rights and welfare of college teachers in Meghalaya.
-
-MCTA General Secretary’s Report
-
-26th April 2024 to 24th September 2026
+**List of MCTA Executive Committee Members 2024-26 (Elected 26th April, 2024 in the 35th Biennial Conference, Shillong College)**
 
 | **Sl. No.** | **Office** | **Elected** |
 | --- | --- | --- |
@@ -36,8 +36,6 @@ MCTA General Secretary’s Report
 | 23 | Executive Member | Dr. Sanggra A’gitok Sangma (Don Bosco College, Tura) |
 | 24 | Executive Member | Dr. Lobisor Kurbah (St. Edmund’s College) |
 | 25 | Executive Member | Mr. Witting Mawsor (Nongstoin College) |
-
-**List of MCTA Executive Committee Members 2024-26 (Elected 26th April, 2024 in the 35th Biennial Conference, Shillong College)**
 
 **NEHU Academic Council Members \[NEHU CDC Notification No. AC:5/ Conf/89 (Vol. V)-743 on 27th May 2024 for 3 years\]**
 
