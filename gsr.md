@@ -7,9 +7,19 @@ layout: default
 ## For the 36th Biennial Conference
 _Period: 26th April 2024 – 24th September 2026_
 
-- [1. Introduction](#1-introduction)
-- [2. CPF and Pension Matters](#2-cpf-and-pension-matters)
-- [3. Legal Matters and pending financial benefits](#3-legal-matters-and-pending-financial-benefits)
+- [Introduction](#1-introduction)
+- [CPF and Pension Matters](#2-cpf-and-pension-matters)
+- [Legal Matters and pending financial benefits](#3-legal-matters-and-pending-financial-benefits)
+- [DHTE Government matters and service conditions](#4-dhte-government-matters-and-service-conditions)
+- [Higher Education ,NEHU and Academic Council Matters](#5-higher-education-nehu-and-academic-matters)
+- [AIFUCTO and the Wider Teachers Movement](#6-aifucto-and-the-wider-teachers-movement)
+- [Welfare of Members](#7-welfare-of-members)
+- [Collective action and Public Engagement](#8-collective-action-and-public-engagement)
+- [RR Thomas Memorial Debate Competition](#9-r-r-thomas-memorial-inter-college-debate-competition)
+- [Pending Land issue for the MCTA Office](#10-pending-land-issue-for-the-mcta-office)
+- [Overall assessment, unresolved issues and the way forward](#11-overall-assessment-unresolved-issues-and-the-way-forward)
+- [Acknowledgement](#12-acknowledgement)
+- [Conclusion](#13-conclusion)
 
 **List of MCTA Executive Committee Members 2024-26 (Elected 26th April, 2024 in the 35th Biennial Conference, Shillong College)**
 
