@@ -7,6 +7,8 @@ layout: default
 ## For the 36th Biennial Conference
 _Period: 26th April 2024 – 24th September 2026_
 
+[Introduction](#1-introduction)
+
 **List of MCTA Executive Committee Members 2024-26 (Elected 26th April, 2024 in the 35th Biennial Conference, Shillong College)**
 
 | **Sl. No.** | **Office** | **Elected** |
@@ -305,5 +307,3 @@ I thank all members for their cooperation and support throughout the tenure.
 **Thank you.**
 
 **Long Live MCTA**
-
-[Treasurer's Report](/tr.html)
