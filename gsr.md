@@ -7,7 +7,9 @@ layout: default
 ## For the 36th Biennial Conference
 _Period: 26th April 2024 – 24th September 2026_
 
-[Introduction](#1-introduction)
+- [1. Introduction](#1-introduction)
+- [2. CPF and Pension Matters](#2-cpf-and-pension-matters)
+- [3. Legal Matters and pending financial benefits](#3-legal-matters-and-pending-financial-benefits)
 
 **List of MCTA Executive Committee Members 2024-26 (Elected 26th April, 2024 in the 35th Biennial Conference, Shillong College)**
 
