@@ -2,9 +2,9 @@
 title: Treasurer's Report
 layout: default
 ---
-# Treasurer's Report
-
-## 36th Biennial General Conference of the Meghalaya College Teachers' Association
+# MEGHALAYA COLLEGE TEACHERS’ ASSOCIATION
+# TREASURER’S REPORT
+## For the 36th Biennial Conference
 
 <a class="btn" href="/image/tr.pdf" target="_blank">Download Treasurer's Report</a>
 
