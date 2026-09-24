@@ -1,3 +1,7 @@
+---
+title: Treasurer's Report
+layout: default
+---
 # Treasurer's Report
 
 ## 36th Biennial General Conference of the Meghalaya College Teachers' Association
