@@ -30,10 +30,10 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css">
     <style>
         :root {
-            --primary-bg: #141b41;
+            --primary-bg: #3e5c76;
             --text-color: #ffffff;
-            --btn-bg: #535976;
-            --btn-hover: #646a87;
+            --btn-bg: #434343;
+            --btn-hover: #000;
             --btn-text-hover: #e5e7e9;
             --border-radius: 50px;
         }
@@ -87,24 +87,27 @@
         }
 
         .link-item {
-            display: block;
-            text-decoration: none;
-            background-color: var(--btn-bg);
-            color: var(--text-color);
-            padding: 16px 20px;
-            margin-bottom: 12px;
-            text-align: left;
-            border: 1px solid #ddd;
-            border-radius: var(--border-radius);
-            font-weight: 500;
-            transition: all 0.3s ease;
+            background-image: linear-gradient(to right, var(--btn-hover) 0%, var(--btn-bg) 51%, var(--btn-hover) 100%);
         }
-
+        
+        .link-item {
+            margin: 10px;
+            padding: 15px 45px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            border:1px solid #ccc;
+            color: white;
+            border-radius: 10px;
+            display: block;
+            outline: none;
+        }
+        
         .link-item:hover {
-            background-color: var(--btn-hover);
-            color: var(--text-color);
-            border-color: var(--btn-hover);
-            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            background-position: right center;
+            color: #fff;
+            text-decoration: none;
         }
         
         footer {
