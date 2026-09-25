@@ -5,9 +5,9 @@ layout: default
 # President's Address
 ## 36th Biennial General Conference of MCTA Shillong
 
-<mark>Honourable dignitaries, distinguished guests, respected colleagues, dear teachers, and friends,</mark>
+Honourable dignitaries, distinguished guests, respected colleagues, dear teachers, and friends,
 
-<mark>It is both a privilege and a profound responsibility to address this 36th Biennial Conference of the Meghalaya College Teachers' Association.</mark>
+It is both a privilege and a profound responsibility to address this 36th Biennial Conference of the Meghalaya College Teachers' Association.
 
 As teachers, we are accustomed to speaking about education in terms of classrooms, examinations, syllabi, degrees and careers. However, I believe that, at this moment in our country's and state's history, we must view education from a broader perspective.
 
@@ -119,7 +119,7 @@ A college creates not merely graduates but citizens, professionals, researchers,
 
 The return on education therefore extends far beyond the balance sheet of an individual institution.
 
-<mark>This is why any proposed restructuring of grants and funding mechanisms must be approached with transparency, consultation and safeguards.</mark>
+This is why any proposed restructuring of grants and funding mechanisms must be approached with transparency, consultation and safeguards.
 
 The document before this conference refers to the Meghalaya Education Grant proposal and raises concerns about future grant structures and performance-linked indicators such as enrolment, fee structures, infrastructure and institutional performance.
 
